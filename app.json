@@ -1,0 +1,13 @@
+{
+	"expo" : {
+		"name" : "Currency Converter",
+		"sdkVersion": "25.0.0",
+		"icon": "./sample-icon.png",
+		"description": "Basic App",
+		"version": "1.0.1",
+		"orientation": "portrait",
+		"android" : {
+			"package" : "com.Immanuel.currencyconverter"
+		}
+	}
+}
